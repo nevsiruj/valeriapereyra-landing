@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-gradient-to-r from-red-500 to-black py-4">
+  <header class="bg-gradient-to-r from-pink-400 to-black py-4">
     <div class="container mx-auto flex justify-between items-center">
       <a href="#" class="text-white font-bold text-xl ml-2">Valeria Pereyra</a>
       <nav>
@@ -9,15 +9,15 @@
       </nav>
     </div>
   </header>
-  <section class="bg-gray-100 py-12">
+  <section class="bg-pink-100 py-12">
     <div class="container mx-auto px-4">
       <div class="flex flex-wrap -mx-4">
         <div
           class="
             card
             bg-gradient-to-br
-            from-red-900
-            to-red-500
+            from-pink-900
+            to-pink-500
             rounded-lg
             overflow-hidden
             shadow-lg
@@ -83,7 +83,7 @@
     </div>
   </section>
 
-  <section class="bg-black text-red-500 py-16">
+  <section class="bg-black text-pink-500 py-16">
     <div class="container mx-auto px-4">
       <h2 class="text-3xl font-bold mb-8">Servicios</h2>
       <div class="flex flex-wrap -mx-4">
@@ -94,7 +94,7 @@
               Creamos diseños gráficos únicos y personalizados para tu negocio o
               marca, adaptados a tus necesidades y objetivos.
             </p>
-            <a href="#" class="text-red-500 font-bold hover:text-red-600"
+            <a href="#" class="text-pink-500 font-bold hover:text-pink-600"
               >Ver más</a
             >
           </div>
@@ -107,7 +107,7 @@
               redes sociales, aumentando el engagement y llegando a más
               personas.
             </p>
-            <a href="#" class="text-red-500 font-bold hover:text-red-600"
+            <a href="#" class="text-pink-500 font-bold hover:text-pink-600"
               >Ver más</a
             >
           </div>
@@ -119,7 +119,7 @@
               Realizamos videos promocionales, publicitarios y corporativos para
               tu marca o negocio, desde la idea hasta la postproducción.
             </p>
-            <a href="#" class="text-red-500 font-bold hover:text-red-600"
+            <a href="#" class="text-pink-500 font-bold hover:text-pink-600"
               >Ver más</a
             >
           </div>
@@ -128,7 +128,7 @@
     </div>
   </section>
 
-  <footer class="bg-gradient-to-r from-red-500 to-red-900 text-white py-6">
+  <footer class="bg-gradient-to-r from-pink-500 to-pink-900 text-white py-6">
     <div class="container mx-auto px-4">
       <p class="text-center">Valera Pereyra &copy; 2023.</p>
     </div>
