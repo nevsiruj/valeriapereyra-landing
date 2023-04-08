@@ -22,6 +22,7 @@
             overflow-hidden
             shadow-lg
             mb-8
+            m-2
           "
         >
           <div class="p-4">
