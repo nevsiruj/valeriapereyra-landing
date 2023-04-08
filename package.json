@@ -12,7 +12,7 @@
     "@headlessui/vue": "^1.7.12",
     "@heroicons/vue": "^2.0.17",
     "postcss": "^8.0.9",
-    "tailwindcss": "latest",
+    "tailwindcss": "^3.3.1",
     "vue": "^3.2.26"
   },
   "devDependencies": {
