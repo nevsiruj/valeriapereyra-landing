@@ -1,7 +1,9 @@
 <template>
   <header class="bg-gradient-to-r from-pink-600 to-pink-900 py-4">
     <div class="container mx-auto flex justify-between items-center">
-      <a href="#" class="text-white font-bold text-xl ml-2">Valeria Pereyra</a>
+      <a href="#" class="text-white font-bold text-xl ml-2 animate-bounce"
+        >Valeria Pereyra</a
+      >
       <nav>
         <a href="#" class="text-white hover:underline mx-4">Inicio</a>
         <a href="#" class="text-white hover:underline mx-4">Servicios</a>
@@ -25,33 +27,30 @@
         >
           <div class="p-4">
             <h2 class="text-3xl font-bold text-white mb-4">
-              <i class="fas fa-chart-line"></i> Mejora la presencia de tu marca
-              en las redes sociales
+              📈 Mejora la presencia de tu marca en las redes sociales
             </h2>
             <h3 class="text-xl font-bold text-white mb-4">
-              <i class="fas fa-paint-brush"></i> Diseño gráfico y gestión de
-              redes sociales
+              🎨 Diseño gráfico y gestión de redes sociales
             </h3>
             <p class="text-lg text-white mb-4">
               ¿Quieres que tu marca tenga una presencia profesional y atractiva
               en las redes sociales? Soy Valeria Pereyra, community manager y
               diseñadora gráfica, y estoy aquí para ayudarte a alcanzar tus
-              objetivos en las redes sociales. <i class="fas fa-check"></i>
+              objetivos en las redes sociales. ✅
             </p>
             <p class="text-lg text-white mb-4">
               En mi servicio de diseño gráfico y gestión de redes sociales, te
               brindaré estrategias personalizadas para aumentar tu visibilidad
               en las redes y mejorar la interacción con tus seguidores.
               Trabajaremos juntos para crear una imagen de marca cohesiva y
-              atractiva que se destaque en la multitud en las redes sociales.
-              <i class="fas fa-user-friends"></i>
+              atractiva que se destaque en la multitud en las redes sociales. 👥
             </p>
             <a
               href="#"
               class="bg-white hover:bg-gray-200 text-red-500 py-2 px-4 rounded"
-              ><i class="fas fa-arrow-circle-right"></i> ¡Contrata mis servicios
-              ahora!</a
             >
+              ➡️ ¡Contrata mis servicios ahora!
+            </a>
           </div>
         </div>
 
@@ -120,6 +119,65 @@
             <a href="#" class="text-pink-600 font-bold hover:text-pink-600"
               >Ver más</a
             >
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-gray-100 py-12">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-bold mb-8">Clientes</h2>
+      <div class="flex flex-wrap -mx-4">
+        <div class="w-full md:w-1/3 px-4 mb-8">
+          <div class="bg-white rounded-lg shadow-lg p-8">
+            <h3 class="font-bold text-xl mb-4">La Previa</h3>
+            <div class="flex justify-center mb-4">
+              <a
+                href="https://instagram.com/lapreviavd?igshid=YmMyMTA2M2Y="
+                target="_blank"
+              >
+                <i class="fab fa-instagram text-pink-600 text-4xl"></i>
+              </a>
+            </div>
+            <p class="text-gray-700 mb-4">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+              vel consequat nisi.
+            </p>
+          </div>
+        </div>
+        <div class="w-full md:w-1/3 px-4 mb-8">
+          <div class="bg-white rounded-lg shadow-lg p-8">
+            <h3 class="font-bold text-xl mb-4">Lavadero Centro</h3>
+            <div class="flex justify-center mb-4">
+              <a
+                href="https://instagram.com/lavaderocentrovd?igshid=YmMyMTA2M2Y="
+                target="_blank"
+              >
+                <i class="fab fa-instagram text-pink-600 text-4xl"></i>
+              </a>
+            </div>
+            <p class="text-gray-700 mb-4">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+              vel consequat nisi.
+            </p>
+          </div>
+        </div>
+        <div class="w-full md:w-1/3 px-4 mb-8">
+          <div class="bg-white rounded-lg shadow-lg p-8">
+            <h3 class="font-bold text-xl mb-4">Animal Veterinaria Punto</h3>
+            <div class="flex justify-center mb-4">
+              <a
+                href="https://instagram.com/animalveterinariapunto?igshid=YmMyMTA2M2Y="
+                target="_blank"
+              >
+                <i class="fab fa-instagram text-pink-600 text-4xl"></i>
+              </a>
+            </div>
+            <p class="text-gray-700 mb-4">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+              vel consequat nisi.
+            </p>
           </div>
         </div>
       </div>
