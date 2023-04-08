@@ -84,7 +84,9 @@
       <div class="flex flex-wrap -mx-4">
         <div class="w-full md:w-1/3 px-4 mb-8">
           <div class="bg-white rounded-lg shadow-lg p-8">
-            <h3 class="font-bold text-xl mb-4">Diseño gráfico</h3>
+            <h3 class="font-bold text-xl mb-4">
+              <i class="fas fa-palette"></i> Diseño gráfico
+            </h3>
             <p class="text-gray-700 mb-4">
               Creamos diseños gráficos únicos y personalizados para tu negocio o
               marca, adaptados a tus necesidades y objetivos.
@@ -94,9 +96,12 @@
             >
           </div>
         </div>
+
         <div class="w-full md:w-1/3 px-4 mb-8">
           <div class="bg-white rounded-lg shadow-lg p-8">
-            <h3 class="font-bold text-xl mb-4">Gestión de redes sociales</h3>
+            <h3 class="font-bold text-xl mb-4">
+              <i class="fas fa-globe"></i> Gestión de redes sociales
+            </h3>
             <p class="text-gray-700 mb-4">
               Te ayudamos a manejar y mejorar la presencia de tu marca en las
               redes sociales, aumentando el engagement y llegando a más
@@ -107,16 +112,19 @@
             >
           </div>
         </div>
+
         <div class="w-full md:w-1/3 px-4 mb-8">
           <div class="bg-white rounded-lg shadow-lg p-8">
-            <h3 class="font-bold text-xl mb-4">Producción audiovisual</h3>
+            <h3 class="font-bold text-xl mb-4">
+              <i class="fas fa-camera"></i> Producción audiovisual
+            </h3>
             <p class="text-gray-700 mb-4">
               Realizamos videos promocionales, publicitarios y corporativos para
               tu marca o negocio, desde la idea hasta la postproducción.
             </p>
-            <a href="#" class="text-pink-600 font-bold hover:text-pink-600"
-              >Ver más</a
-            >
+            <a href="#" class="text-pink-600 font-bold hover:text-pink-600">
+              Ver más
+            </a>
           </div>
         </div>
       </div>
@@ -203,6 +211,8 @@
       </div>
     </div>
   </section>
+
+  
 
   <footer class="bg-gradient-to-r from-pink-600 to-pink-900 text-white py-6">
     <div class="container mx-auto px-4">
