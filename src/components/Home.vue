@@ -1,9 +1,7 @@
 <template>
   <header class="bg-gradient-to-r from-pink-600 to-pink-900 py-4">
     <div class="container mx-auto flex justify-between items-center">
-      <a href="#" class="text-white font-bold text-xl ml-2 animate-bounce"
-        >Valeria Pereyra</a
-      >
+      <a href="#" class="text-white font-bold text-xl ml-2">Valeria Pereyra</a>
       <nav>
         <a href="#" class="text-white hover:underline mx-4">Inicio</a>
         <a href="#" class="text-white hover:underline mx-4">Servicios</a>
@@ -141,8 +139,9 @@
               </a>
             </div>
             <p class="text-gray-700 mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              vel consequat nisi.
+              🍻 La Previa: Casa de bebidas alcohólicas con la mejor selección
+              de vinos y cervezas. ¡Vení a disfrutar un buen trago con amigos!
+              🍷🍺
             </p>
           </div>
         </div>
@@ -158,8 +157,9 @@
               </a>
             </div>
             <p class="text-gray-700 mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              vel consequat nisi.
+              🚗 Lavadero Centro: ¡Dejá tu auto, camioneta o moto como nuevo! En
+              nuestro lavadero utilizamos los mejores productos y técnicas de
+              lavado para que tu vehículo brille como nunca antes. 🧼🚿
             </p>
           </div>
         </div>
@@ -175,8 +175,28 @@
               </a>
             </div>
             <p class="text-gray-700 mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
-              vel consequat nisi.
+              🐶 Veterinaria Punto Animal: Tu mejor opción para el cuidado de
+              tus mascotas. Contamos con un equipo de profesionales dedicados a
+              brindarles la mejor atención y cuidados que se merecen. 🐾
+            </p>
+          </div>
+        </div>
+        <div class="w-full md:w-1/3 px-4 mb-8">
+          <div class="bg-white rounded-lg shadow-lg p-8">
+            <h3 class="font-bold text-xl mb-4">Sol y Sierras</h3>
+            <div class="flex justify-center mb-4">
+              <a
+                href="https://instagram.com/parqueacuaticosolysierras.ok?igshid=YmMyMTA2M2Y="
+                target="_blank"
+              >
+                <i class="fab fa-instagram text-pink-600 text-4xl"></i>
+              </a>
+            </div>
+            <p class="text-gray-700 mb-4">
+              🌴 Parque Sol y Sierra: ¡La mejor aventura acuática te espera!
+              Vení a disfrutar de nuestras piscinas, toboganes y juegos
+              acuáticos para toda la familia. Además, contamos con áreas verdes,
+              parrillas y mucho más para que pases un día inolvidable. 🌊🏊‍♂️🌳🍔
             </p>
           </div>
         </div>
